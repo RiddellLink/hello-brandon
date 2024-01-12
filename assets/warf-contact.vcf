@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Michael Warf
+N;CHARSET=UTF-8:Warf;Michael;;;
+NICKNAME;CHARSET=UTF-8:Warfeous
+GENDER:M
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:michael@coalbanks.com
+TEL;TYPE=CELL:587-821-8080
+TEL;TYPE=WORK,VOICE:587-813-5950
+LABEL;CHARSET=UTF-8;TYPE=WORK:Coalbanks Creative Inc.
+ADR;CHARSET=UTF-8;TYPE=WORK:;;#208\, 316 5 St South;Lethbridge;Alberta;T1J 2B5;
+TITLE;CHARSET=UTF-8:Founder / Director
+ROLE;CHARSET=UTF-8:Director
+ORG;CHARSET=UTF-8:Coalbanks Creative Inc.
+URL;type=WORK;CHARSET=UTF-8:https://coalbanks.com
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/mwarf/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/coalbanksco/
+REV:2024-01-12T05:43:01.598Z
+END:VCARD

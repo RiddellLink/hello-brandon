@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+
+# Environment files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
+*.iml
+*.swp
+*.swo
